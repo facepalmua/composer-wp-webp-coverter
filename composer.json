@@ -1,5 +1,5 @@
 {
-    "name": "composer-wp-plubin-webp-express",
+    "name": "facepalmua/composer-wp-webp-coverter",
     "description": "WebP for the masses",
     "type": "wordpress-plugin",
     "license": "MIT",
